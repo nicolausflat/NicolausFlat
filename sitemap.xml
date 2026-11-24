@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.nicolausflat.it/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.nicolausflat.it/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.nicolausflat.it/en/"/>
+  </url>
+  <url>
+    <loc>https://www.nicolausflat.it/en/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.nicolausflat.it/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.nicolausflat.it/en/"/>
+  </url>
+  <url>
+    <loc>https://www.nicolausflat.it/appartamento.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.nicolausflat.it/appartamento.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.nicolausflat.it/en/apartment.html"/>
+  </url>
+  <url>
+    <loc>https://www.nicolausflat.it/en/apartment.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.nicolausflat.it/appartamento.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.nicolausflat.it/en/apartment.html"/>
+  </url>
+  <url>
+    <loc>https://www.nicolausflat.it/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.nicolausflat.it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.nicolausflat.it/en/faq.html"/>
+  </url>
+  <url>
+    <loc>https://www.nicolausflat.it/en/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.nicolausflat.it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.nicolausflat.it/en/faq.html"/>
+  </url>
+  <url>
+    <loc>https://www.nicolausflat.it/prenota.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.nicolausflat.it/prenota.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.nicolausflat.it/en/book.html"/>
+  </url>
+  <url>
+    <loc>https://www.nicolausflat.it/en/book.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.nicolausflat.it/prenota.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.nicolausflat.it/en/book.html"/>
+  </url>
+  <url><loc>https://www.nicolausflat.it/guida-bari.html</loc></url>
+  <url><loc>https://www.nicolausflat.it/come-arrivare.html</loc></url>
+  <url><loc>https://www.nicolausflat.it/gite-da-bari.html</loc></url>
+</urlset>

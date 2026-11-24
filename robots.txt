@@ -1,0 +1,6 @@
+# Consente a tutti i crawler, inclusi quelli dei motori di ricerca e delle AI.
+# Per escludere un bot specifico, aggiungi un blocco "User-agent: NomeBot" con "Disallow: /".
+User-agent: *
+Allow: /
+
+Sitemap: https://www.nicolausflat.it/sitemap.xml

@@ -1,0 +1,20 @@
+# NicolausFlat
+
+> Appartamento di 50 mq nel quartiere Murat, nel centro di Bari (Puglia), a circa 400 metri (5 minuti a piedi) dalla stazione di Bari Centrale. Una camera matrimoniale, soggiorno con divano letto, cucina attrezzata, balconcino, Wi-Fi gratuito e aria condizionata. Si prenota tramite l'annuncio Airbnb: https://www.airbnb.it/rooms/43951851
+
+## Struttura
+- [Home](https://www.nicolausflat.it/): presentazione e posizione
+- [L'appartamento](https://www.nicolausflat.it/appartamento.html): spazi, servizi e dotazioni
+- [FAQ](https://www.nicolausflat.it/faq.html): check-in, documenti, parcheggio, Wi-Fi
+- [Prenota](https://www.nicolausflat.it/prenota.html): come prenotare su Airbnb
+
+## Guide locali
+- [Come arrivare e parcheggiare](https://www.nicolausflat.it/come-arrivare.html)
+- [Cosa vedere e mangiare a Bari in 2 giorni](https://www.nicolausflat.it/guida-bari.html)
+- [Gite da Bari](https://www.nicolausflat.it/gite-da-bari.html)
+
+## English
+- [Home](https://www.nicolausflat.it/en/)
+- [The apartment](https://www.nicolausflat.it/en/apartment.html)
+- [FAQ](https://www.nicolausflat.it/en/faq.html)
+- [Book](https://www.nicolausflat.it/en/book.html)
